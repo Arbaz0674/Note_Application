@@ -1,0 +1,3 @@
+Note Application is built for Creating New Notes,Viewing Existing Notes etc.
+This Note Application is built using the concepts of local storage and session storage of Javascript.
+In Application,one can add new notes,delete existing notes without reloading pages.
